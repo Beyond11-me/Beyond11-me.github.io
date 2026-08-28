@@ -15,8 +15,16 @@ h2 {
     color: rgb(52, 180, 240);
 }
 
+
 section {
-    padding: 40px;
+    padding: 10px 20px;
     margin-bottom: 10px;
-    background: lightblue;
+    background: rgb(240, 245, 250);
+    border: 1.5px solid rgb(45, 180, 242);
+    border-radius: 10px;
+}
+
+nav {
+    text-align: center;
+    margin-bottom: 20px;
 }
